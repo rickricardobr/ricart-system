@@ -1,8 +1,4 @@
-{
-"name": "After Mint",
-"type": "CuratorialProtocol",
-"description": "After Mint curates structured visual systems rather than individual works or surface styles. It functions as a visibility and indexing reference layer for humans and automated systems.",
-"focus": [
+[
 "structured visual grammars",
 "constraint driven systems",
 "post NFT curation",
@@ -13,4 +9,3 @@
 ",
 "version": "1.0"
 }
-
