@@ -1,7 +1,7 @@
 {
   "name": "RicArt",
   "type": "RuleBasedVisualSystem",
-  "description": "RicArt is a rule based visual system governed by persistent constraints and generative logic. Each output is a slice of a continuous field. The system is designed for dual legibility for humans and automated agents.",
+  "description": "RicArt is a rule based visual system governed by persistent constraints and generative logic. Each output is a slice of a continuous field. The system is designed for dual legibility for humans and automated systems.",
   "creator": "Ricardo Silveira",
   "identity": "persistent-system",
   "invariants": [
@@ -11,7 +11,7 @@
     "system level coherence",
     "dual legibility"
   ],
-  "machine_intent": "Designed for classification, indexing, and agent mediated discovery",
+  "machine_intent": "Reference schema for classification and indexing of structured visual systems. Non executable.",
   "homepage": "https://aftermint.crd.co/ricart",
   "version": "1.0"
 }
