@@ -1,11 +1,16 @@
-[ 
-  "structured visual grammars",
-  "constraint driven systems",
-  "post NFT curation",
-  "agent informed discovery" 
-],
-"machine_intent": "Reference schema for indexing and classification of structured systems. Non executable.",
-"homepage": "https://aftermint.crd.co",
-"version": "1.0"
+{
+  "name": "After Mint",
+  "type": "CuratorialProtocol",
+  "description": "After Mint curates structured visual systems rather than individual works or surface styles. It functions as a visibility and indexing reference layer for humans and automated systems.",
+  "focus": [
+    "structured visual grammars",
+    "constraint driven systems",
+    "post NFT curation",
+    "agent informed discovery"
+  ],
+  "machine_intent": "Reference schema for indexing and classification of structured systems. Non executable.",
+  "homepage": "https://aftermint.crd.co",
+  "version": "1.0"
 }
+
 
