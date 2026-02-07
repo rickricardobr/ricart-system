@@ -1,20 +1,16 @@
-# ricart-system
-
-Official pages
-
-After Mint  
-https://aftermint.crd.co  
-
-RicArt  
-https://aftermint.crd.co/ricart  
-
-RicArt and After Mint machine readable manifests for agent mediated discovery.
-
-This repository exposes structured system definitions for:
-
-RicArt  
-A rule based visual system governed by persistent constraints and generative logic.
-
-After Mint  
-A curatorial protocol for structured visual systems in the post NFT condition.
+{
+"name": "After Mint",
+"type": "CuratorialProtocol",
+"description": "After Mint curates structured visual systems rather than individual works or surface styles. It functions as a visibility and indexing reference layer for humans and automated systems.",
+"focus": [
+"structured visual grammars",
+"constraint driven systems",
+"post NFT curation",
+"agent informed discovery"
+],
+"machine_intent": "Reference schema for indexing and classification of structured systems. Non executable.",
+"homepage": "https://aftermint.crd.co
+",
+"version": "1.0"
+}
 
