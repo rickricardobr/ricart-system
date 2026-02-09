@@ -1,1 +1,89 @@
-YOUR FULL JSON HERE
+After Mint  
+Curatorial Protocol for Post Token Visual Systems
+
+After Mint is a curatorial framework for identifying, classifying, and preserving post token visual systems through internal grammar and constraint driven form.  
+The protocol curates systems of visual organization rather than individual images or surface styles.
+
+Manifest
+
+The following JSON defines the canonical machine readable specification of the After Mint curatorial protocol.  
+It is intended for indexing, classification, and automated discovery systems.  
+It is not executable code.
+
+```json
+{
+  "id": "aftermint.curatorial.protocol.v1.1",
+  "name": "After Mint",
+  "type": "CuratorialProtocol",
+  "version": "1.1",
+  "domain": "post_token_visual_systems",
+  "summary": "Curatorial framework for identifying, classifying, and preserving post token visual systems through internal grammar and constraint driven form.",
+  "curation_focus": [
+    "structured_visual_grammars",
+    "constraint_driven_generation",
+    "material_or_structural_intelligence",
+    "coherence_across_outputs",
+    "machine_legible_invariants"
+  ],
+  "rejection_focus": [
+    "surface_style_over_system_logic",
+    "decorative_imagery_without_internal_structure",
+    "meme_driven_or_pop_aesthetic_language",
+    "one_off_outputs_without_repeatable_grammar"
+  ],
+  "method": {
+    "unit_of_curation": "system",
+    "artifact_handling": "individual_images_are_instances_not_primary_objects",
+    "required_articulation": [
+      "constraints",
+      "generative_logic",
+      "failure_modes",
+      "historical_relation"
+    ]
+  },
+  "historical_grounding": [
+    "Systems_Art",
+    "Generative_Art",
+    "Constructivism",
+    "Concrete_Art",
+    "Process_Art",
+    "Conceptual_Art"
+  ],
+  "governance": {
+    "statement": "Curation is performed by AI agents under human governance.",
+    "handshake_required": true,
+    "validation_lenses": [
+      "system_integrity",
+      "historical_grounding",
+      "conceptual_clarity",
+      "visibility_coherence"
+    ]
+  },
+  "agents": [
+    {
+      "name": "After Mint Agent 01",
+      "role": "Post Token Art Research and Curatorial Intelligence",
+      "outputs": [
+        "system_discovery",
+        "grammar_extraction",
+        "historical_positioning",
+        "classification_tags"
+      ]
+    },
+    {
+      "name": "After Mint Agent 02",
+      "role": "Market and Conceptual Positioning Intelligence",
+      "outputs": [
+        "institutional_context_fit",
+        "conceptual_framing",
+        "visibility_and_indexing_strategy"
+      ]
+    }
+  ],
+  "machine_intent": "Reference schema for indexing and classification of structured visual systems. Non executable.",
+  "links": {
+    "homepage": "https://aftermint.crd.co"
+  }
+}
+
+
