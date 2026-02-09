@@ -1,11 +1,9 @@
-[ 
-  "structured visual grammars",
-  "constraint driven systems",
-  "post NFT curation",
-  "agent informed discovery" 
-],
-"machine_intent": "Reference schema for indexing and classification of structured systems. Non executable.",
-"homepage": "https://aftermint.crd.co",
-"version": "1.0"
+{
+  "id": "aftermint.curatorial.protocol.v1.1",
+  "name": "After Mint",
+  "type": "CuratorialProtocol",
+  "version": "1.1",
+  ...
 }
+
 
